@@ -225,7 +225,7 @@ public class AllInOne {
 
         WebElement profileLogoutPopupYesBtn = driver.findElement(By.id("android:id/button1"));
         profileLogoutPopupYesBtn.click();
-        Thread.sleep(10000);
+        Thread.sleep(15000);
 
 
 
